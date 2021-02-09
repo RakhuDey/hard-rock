@@ -57,3 +57,5 @@ const displayLyrics = (lyrics) => {
     const lyricsDiv = document.getElementById("song-lyrics");
     lyricsDiv.innerText = lyrics;
 };
+
+// 26_5-5 How to handle fetch error and use try catch .......must see this video...my remainder
